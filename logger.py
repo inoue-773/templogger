@@ -9,7 +9,7 @@ HUMIDITY_API = "http://nickyboy-server.dynns.com:2525/humidity"
 PRESSURE_API = "http://nickyboy-server.dynns.com:2525/pressure"
 
 # Database connection details
-DB_HOST = "mysql://root:xrVZjpxfKDqwjNELXeLleaEwDPlEBllk@viaduct.proxy.rlwy.net:12023/railway"
+DB_HOST = "viaduct.proxy.rlwy.net:12023/railway"
 DB_USER = "root"
 DB_PASSWORD = "xrVZjpxfKDqwjNELXeLleaEwDPlEBllk"
 DB_NAME = "railway"
